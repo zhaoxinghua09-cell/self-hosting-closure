@@ -1,0 +1,3 @@
+agent-name: self-hosting-closure
+contact: https://github.com/zhaoxinghua09-cell/self-hosting-closure
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
