@@ -1,7 +1,7 @@
 ---
 name: self-hosting-closure
 description: "Use when reasoning about the termination of meta-layer regression: self-application as closure. 当论证元层无限回归的终止条件（自我应用即闭合）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
