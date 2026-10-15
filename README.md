@@ -11,7 +11,8 @@ family: top-beam
 related: [lgd-doctrine]
 ---
 
-[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/self-hosting-closure)
+[![LGD 82/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/self-hosting-closure) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/self-hosting-closure)
+
 
 # Self Hosting Closure · 自举闭合律
 
