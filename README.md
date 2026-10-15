@@ -14,6 +14,7 @@ related: [lgd-doctrine]
 [![LGD 82/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/self-hosting-closure) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/self-hosting-closure)
 
 
+
 # Self Hosting Closure · 自举闭合律
 
 ![LGD score](badge.svg "LGD machine-readability score")
